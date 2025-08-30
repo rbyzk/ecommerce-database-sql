@@ -1,6 +1,6 @@
-# 🛒 E-Commerce Relational Database – PostgreSQL
+# 🛒 E-Commerce Relational Database – SQL
 
-This project designs and implements a **relational e-commerce database** using **PostgreSQL**.  
+This project designs and implements a relational e-commerce database using SQL-based tools.  
 It includes **database schema creation (DDL)**, **sample data insertion (DML)**, **validation queries**, and an **ER diagram**.  
 A full **technical report** is provided to explain the database structure, relationships, and business logic.
 
@@ -55,24 +55,6 @@ The database consists of **six main tables**:
 
 ---
 
-## 📜 ER Diagram
-
-![ER Diagram](./diagrams/er_diagram.png)
-
----
-
-## ▶️ How to Run the Project
-
-1. **Create a database** in PostgreSQL (optional).
-2. Open `scripts/ecommerce_project.sql` in **pgAdmin** or **DBeaver**.
-3. Run the script to:
-   - Create the schema
-   - Insert sample data
-   - Execute validation queries
-4. Open `diagrams/er_diagram.png` to review table relationships.
-
----
-
 ## ✅ Features
 
 - **Normalized relational schema** with PK/FK constraints
@@ -80,14 +62,6 @@ The database consists of **six main tables**:
 - **Validation queries** to confirm 1:N and M:N relationships
 - **ER diagram** for visual understanding
 - **Technical documentation** provided in both English and Turkish
-
----
-
-## 📄 Deliverables
-
-- 📜 **Full technical report:** [E-Commerce Database – Technical Report](./reports/E-Commerce%20Database%20–%20Technical%20Report.pdf)
-- 🗄️ **Database creation script:** [ecommerce_project.sql](./scripts/ecommerce_project.sql)
-- 🧩 **ER diagram** visualizing relationships
 
 ---
 
