@@ -1,6 +1,6 @@
-# 🛒 E-Commerce Relational Database – PostgreSQL
+# 🛒 E-Commerce Relational Database – SQL
 
-This project designs and implements a **relational e-commerce database** using **PostgreSQL**.  
+This project designs and implements a relational e-commerce database using SQL-based tools.  
 It includes **database schema creation (DDL)**, **sample data insertion (DML)**, **validation queries**, and an **ER diagram**.  
 A full **technical report** is provided to explain the database structure, relationships, and business logic.
 
