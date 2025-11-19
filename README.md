@@ -68,6 +68,7 @@ The database consists of **six main tables**:
 ## 👩‍💻 About Me
 
 I'm **Beyza Küçük** — a **Data Scientist** and **Database Designer** passionate about building structured, efficient, and optimized **relational databases**.  
+
 This project demonstrates my ability to design **scalable database architectures** and validate them through **queries and diagrams**.
 
 ---
