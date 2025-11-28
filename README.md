@@ -85,5 +85,6 @@ This project demonstrates my ability to design **scalable database architectures
 
 ## 📜 License
 
+
 This project is licensed under the **MIT License**.  
 See the [LICENSE](./LICENSE) file for more details.
