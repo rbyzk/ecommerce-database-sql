@@ -82,7 +82,6 @@ This project demonstrates my ability to design **scalable database architectures
 
 ---
 
-
 ## 📜 License
 
 
