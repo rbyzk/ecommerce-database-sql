@@ -78,6 +78,7 @@ This project demonstrates my ability to design **scalable database architectures
 - **GitHub:** [github.com/rbyzk](https://github.com/rbyzk)
 - **Kaggle:** [kaggle.com/beyzakucuk](https://www.kaggle.com/beyzakucuk)
 
+
 ✨ If you find this repository helpful, **give it a ⭐** and share it with others!
 
 ---
